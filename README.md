@@ -1,2 +1,6 @@
 # hello-world
-Just a new repository
+
+
+Hi humans!
+
+I just want to develop my programming skills. See ya!
